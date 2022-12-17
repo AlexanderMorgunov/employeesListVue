@@ -13,6 +13,7 @@ SPA приложение которое отображает список сот
 ### HTML
 ### CSS
 
+<br>
 
 ## Recommended IDE Setup
 
