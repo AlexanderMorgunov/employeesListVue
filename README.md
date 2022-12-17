@@ -1,6 +1,18 @@
-# .
+# EmployeesList
 
-This template should help get you started developing with Vue 3 in Vite.
+SPA приложение которое отображает список сотрудников в виде таблицы.
+Создание, редактирование, удаление записей.
+Данные сохраняются в Locale storage браузера.
+
+## Деплой:
+## https://employees-list-17-12-2022.web.app/
+
+# Использовался следующий стек:
+### Vue JS
+### JS
+### HTML
+### CSS
+
 
 ## Recommended IDE Setup
 
